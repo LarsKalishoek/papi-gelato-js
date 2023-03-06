@@ -1,4 +1,3 @@
-
 const week_dagen = ["maandag", "dinsdag", "woensdag", "donderdag", "vrijdag", "zaterdag", "zondag"];
 var namen
 var len
